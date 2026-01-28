@@ -6,3 +6,4 @@
 * Larry Potter y El Malware de Fuego
 * Larry Potter y La Orden de Unix
 * Larry Potter y EL Misterio del Hacker
+* Larry Potter y los Commits de la muerte
